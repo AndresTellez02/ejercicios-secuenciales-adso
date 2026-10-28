@@ -1,0 +1,16 @@
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\bin\Debug\net10.0\Eje03_CalcularPromedioPoderado.exe
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\bin\Debug\net10.0\Eje03_CalcularPromedioPoderado.deps.json
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\bin\Debug\net10.0\Eje03_CalcularPromedioPoderado.runtimeconfig.json
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\bin\Debug\net10.0\Eje03_CalcularPromedioPoderado.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\bin\Debug\net10.0\Eje03_CalcularPromedioPoderado.pdb
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\obj\Debug\net10.0\Eje03_CalcularPromedioPoderado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\obj\Debug\net10.0\Eje03_CalcularPromedioPoderado.AssemblyInfoInputs.cache
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\obj\Debug\net10.0\Eje03_CalcularPromedioPoderado.AssemblyInfo.cs
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\obj\Debug\net10.0\Eje03_CalcularPromedioPoderado.csproj.CoreCompileInputs.cache
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\obj\Debug\net10.0\Eje03_CalcularPromedioPoderado.sourcelink.json
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\obj\Debug\net10.0\Eje03_CalcularPromedioPoderado.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\obj\Debug\net10.0\refint\Eje03_CalcularPromedioPoderado.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\obj\Debug\net10.0\Eje03_CalcularPromedioPoderado.pdb
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\obj\Debug\net10.0\Eje03_CalcularPromedioPoderado.genruntimeconfig.cache
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\obj\Debug\net10.0\ref\Eje03_CalcularPromedioPoderado.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje03_CalcularPromedioPoderado\obj\Debug\net10.0\Eje03_Ca.9316AB99.Up2Date
