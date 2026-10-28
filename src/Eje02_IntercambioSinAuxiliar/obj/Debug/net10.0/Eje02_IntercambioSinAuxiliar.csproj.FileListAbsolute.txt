@@ -1,0 +1,15 @@
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje02_IntercambioSinAuxiliar\bin\Debug\net10.0\Eje02_IntercambioSinAuxiliar.exe
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje02_IntercambioSinAuxiliar\bin\Debug\net10.0\Eje02_IntercambioSinAuxiliar.deps.json
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje02_IntercambioSinAuxiliar\bin\Debug\net10.0\Eje02_IntercambioSinAuxiliar.runtimeconfig.json
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje02_IntercambioSinAuxiliar\bin\Debug\net10.0\Eje02_IntercambioSinAuxiliar.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje02_IntercambioSinAuxiliar\bin\Debug\net10.0\Eje02_IntercambioSinAuxiliar.pdb
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje02_IntercambioSinAuxiliar\obj\Debug\net10.0\Eje02_IntercambioSinAuxiliar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje02_IntercambioSinAuxiliar\obj\Debug\net10.0\Eje02_IntercambioSinAuxiliar.AssemblyInfoInputs.cache
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje02_IntercambioSinAuxiliar\obj\Debug\net10.0\Eje02_IntercambioSinAuxiliar.AssemblyInfo.cs
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje02_IntercambioSinAuxiliar\obj\Debug\net10.0\Eje02_IntercambioSinAuxiliar.csproj.CoreCompileInputs.cache
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje02_IntercambioSinAuxiliar\obj\Debug\net10.0\Eje02_IntercambioSinAuxiliar.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje02_IntercambioSinAuxiliar\obj\Debug\net10.0\refint\Eje02_IntercambioSinAuxiliar.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje02_IntercambioSinAuxiliar\obj\Debug\net10.0\Eje02_IntercambioSinAuxiliar.pdb
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje02_IntercambioSinAuxiliar\obj\Debug\net10.0\Eje02_IntercambioSinAuxiliar.genruntimeconfig.cache
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje02_IntercambioSinAuxiliar\obj\Debug\net10.0\ref\Eje02_IntercambioSinAuxiliar.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje02_IntercambioSinAuxiliar\obj\Debug\net10.0\Eje02_In.09558075.Up2Date
