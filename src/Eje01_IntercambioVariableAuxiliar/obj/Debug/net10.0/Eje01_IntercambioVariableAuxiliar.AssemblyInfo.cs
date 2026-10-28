@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eje01_IntercambioVariableAuxiliar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c0e253c71e5fa79e28eec23dea4a91c748e7d28")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eje01_IntercambioVariableAuxiliar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eje01_IntercambioVariableAuxiliar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

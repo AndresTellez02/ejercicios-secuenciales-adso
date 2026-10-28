@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Competencias algoritmos\\Ejercicios Secuenciales\\Eje01_IntercambioVariableAuxiliar\\Eje01_IntercambioVariableAuxiliar.csproj": {}
+    "D:\\Competencias algoritmos\\ejercicios-secuenciales\\src\\Eje01_IntercambioVariableAuxiliar\\Eje01_IntercambioVariableAuxiliar.csproj": {}
   },
   "projects": {
-    "D:\\Competencias algoritmos\\Ejercicios Secuenciales\\Eje01_IntercambioVariableAuxiliar\\Eje01_IntercambioVariableAuxiliar.csproj": {
+    "D:\\Competencias algoritmos\\ejercicios-secuenciales\\src\\Eje01_IntercambioVariableAuxiliar\\Eje01_IntercambioVariableAuxiliar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Competencias algoritmos\\Ejercicios Secuenciales\\Eje01_IntercambioVariableAuxiliar\\Eje01_IntercambioVariableAuxiliar.csproj",
+        "projectUniqueName": "D:\\Competencias algoritmos\\ejercicios-secuenciales\\src\\Eje01_IntercambioVariableAuxiliar\\Eje01_IntercambioVariableAuxiliar.csproj",
         "projectName": "Eje01_IntercambioVariableAuxiliar",
-        "projectPath": "D:\\Competencias algoritmos\\Ejercicios Secuenciales\\Eje01_IntercambioVariableAuxiliar\\Eje01_IntercambioVariableAuxiliar.csproj",
+        "projectPath": "D:\\Competencias algoritmos\\ejercicios-secuenciales\\src\\Eje01_IntercambioVariableAuxiliar\\Eje01_IntercambioVariableAuxiliar.csproj",
         "packagesPath": "C:\\Users\\Sena CSET\\.nuget\\packages\\",
-        "outputPath": "D:\\Competencias algoritmos\\Ejercicios Secuenciales\\Eje01_IntercambioVariableAuxiliar\\obj\\",
+        "outputPath": "D:\\Competencias algoritmos\\ejercicios-secuenciales\\src\\Eje01_IntercambioVariableAuxiliar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
