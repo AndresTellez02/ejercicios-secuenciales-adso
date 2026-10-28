@@ -1,0 +1,15 @@
+D:\Competencias algoritmos\Ejercicios Secuenciales\Eje01_IntercambioVariableAuxiliar\bin\Debug\net10.0\Eje01_IntercambioVariableAuxiliar.exe
+D:\Competencias algoritmos\Ejercicios Secuenciales\Eje01_IntercambioVariableAuxiliar\bin\Debug\net10.0\Eje01_IntercambioVariableAuxiliar.deps.json
+D:\Competencias algoritmos\Ejercicios Secuenciales\Eje01_IntercambioVariableAuxiliar\bin\Debug\net10.0\Eje01_IntercambioVariableAuxiliar.runtimeconfig.json
+D:\Competencias algoritmos\Ejercicios Secuenciales\Eje01_IntercambioVariableAuxiliar\bin\Debug\net10.0\Eje01_IntercambioVariableAuxiliar.dll
+D:\Competencias algoritmos\Ejercicios Secuenciales\Eje01_IntercambioVariableAuxiliar\bin\Debug\net10.0\Eje01_IntercambioVariableAuxiliar.pdb
+D:\Competencias algoritmos\Ejercicios Secuenciales\Eje01_IntercambioVariableAuxiliar\obj\Debug\net10.0\Eje01_IntercambioVariableAuxiliar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Competencias algoritmos\Ejercicios Secuenciales\Eje01_IntercambioVariableAuxiliar\obj\Debug\net10.0\Eje01_IntercambioVariableAuxiliar.AssemblyInfoInputs.cache
+D:\Competencias algoritmos\Ejercicios Secuenciales\Eje01_IntercambioVariableAuxiliar\obj\Debug\net10.0\Eje01_IntercambioVariableAuxiliar.AssemblyInfo.cs
+D:\Competencias algoritmos\Ejercicios Secuenciales\Eje01_IntercambioVariableAuxiliar\obj\Debug\net10.0\Eje01_IntercambioVariableAuxiliar.csproj.CoreCompileInputs.cache
+D:\Competencias algoritmos\Ejercicios Secuenciales\Eje01_IntercambioVariableAuxiliar\obj\Debug\net10.0\Eje01_IntercambioVariableAuxiliar.dll
+D:\Competencias algoritmos\Ejercicios Secuenciales\Eje01_IntercambioVariableAuxiliar\obj\Debug\net10.0\refint\Eje01_IntercambioVariableAuxiliar.dll
+D:\Competencias algoritmos\Ejercicios Secuenciales\Eje01_IntercambioVariableAuxiliar\obj\Debug\net10.0\Eje01_IntercambioVariableAuxiliar.pdb
+D:\Competencias algoritmos\Ejercicios Secuenciales\Eje01_IntercambioVariableAuxiliar\obj\Debug\net10.0\Eje01_IntercambioVariableAuxiliar.genruntimeconfig.cache
+D:\Competencias algoritmos\Ejercicios Secuenciales\Eje01_IntercambioVariableAuxiliar\obj\Debug\net10.0\ref\Eje01_IntercambioVariableAuxiliar.dll
+D:\Competencias algoritmos\Ejercicios Secuenciales\Eje01_IntercambioVariableAuxiliar\obj\Debug\net10.0\Eje01_In.14761343.Up2Date
