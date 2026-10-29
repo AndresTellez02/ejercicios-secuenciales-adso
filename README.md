@@ -22,7 +22,10 @@ en un compilador en línea o en Visual Studio.
 |04|El rectángulo que crece|✅|
 |05|Circulo: Área y perimetro|✅|
 |06|Termometro triple: °C, °F y Kelvin|✅|
-|07|El rectángulo que crece|⏳|
+|07|desglose de segundos a horas|✅|
+|08|cajero con billetes minimos|✅|
+|09|factura con descuento e IVA|✅|
+|10|hipotenusa con pitagoras|⏳|
 
 
 
