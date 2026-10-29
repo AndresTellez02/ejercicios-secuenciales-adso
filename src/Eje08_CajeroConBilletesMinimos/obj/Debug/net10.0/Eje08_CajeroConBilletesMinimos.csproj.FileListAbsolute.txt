@@ -1,0 +1,16 @@
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\bin\Debug\net10.0\Eje08_CajeroConBilletesMinimos.exe
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\bin\Debug\net10.0\Eje08_CajeroConBilletesMinimos.deps.json
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\bin\Debug\net10.0\Eje08_CajeroConBilletesMinimos.runtimeconfig.json
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\bin\Debug\net10.0\Eje08_CajeroConBilletesMinimos.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\bin\Debug\net10.0\Eje08_CajeroConBilletesMinimos.pdb
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\obj\Debug\net10.0\Eje08_CajeroConBilletesMinimos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\obj\Debug\net10.0\Eje08_CajeroConBilletesMinimos.AssemblyInfoInputs.cache
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\obj\Debug\net10.0\Eje08_CajeroConBilletesMinimos.AssemblyInfo.cs
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\obj\Debug\net10.0\Eje08_CajeroConBilletesMinimos.csproj.CoreCompileInputs.cache
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\obj\Debug\net10.0\Eje08_CajeroConBilletesMinimos.sourcelink.json
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\obj\Debug\net10.0\Eje08_CajeroConBilletesMinimos.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\obj\Debug\net10.0\refint\Eje08_CajeroConBilletesMinimos.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\obj\Debug\net10.0\Eje08_CajeroConBilletesMinimos.pdb
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\obj\Debug\net10.0\Eje08_CajeroConBilletesMinimos.genruntimeconfig.cache
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\obj\Debug\net10.0\ref\Eje08_CajeroConBilletesMinimos.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje08_CajeroConBilletesMinimos\obj\Debug\net10.0\Eje08_Ca.4D735A9B.Up2Date
