@@ -1,0 +1,16 @@
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\bin\Debug\net10.0\Eje07_DesgloseSegundoAHoras.exe
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\bin\Debug\net10.0\Eje07_DesgloseSegundoAHoras.deps.json
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\bin\Debug\net10.0\Eje07_DesgloseSegundoAHoras.runtimeconfig.json
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\bin\Debug\net10.0\Eje07_DesgloseSegundoAHoras.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\bin\Debug\net10.0\Eje07_DesgloseSegundoAHoras.pdb
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\obj\Debug\net10.0\Eje07_DesgloseSegundoAHoras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\obj\Debug\net10.0\Eje07_DesgloseSegundoAHoras.AssemblyInfoInputs.cache
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\obj\Debug\net10.0\Eje07_DesgloseSegundoAHoras.AssemblyInfo.cs
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\obj\Debug\net10.0\Eje07_DesgloseSegundoAHoras.csproj.CoreCompileInputs.cache
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\obj\Debug\net10.0\Eje07_DesgloseSegundoAHoras.sourcelink.json
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\obj\Debug\net10.0\Eje07_DesgloseSegundoAHoras.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\obj\Debug\net10.0\refint\Eje07_DesgloseSegundoAHoras.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\obj\Debug\net10.0\Eje07_DesgloseSegundoAHoras.pdb
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\obj\Debug\net10.0\Eje07_DesgloseSegundoAHoras.genruntimeconfig.cache
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\obj\Debug\net10.0\ref\Eje07_DesgloseSegundoAHoras.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje07_DesgloseSegundoAHoras\obj\Debug\net10.0\Eje07_De.C99CD9FE.Up2Date
