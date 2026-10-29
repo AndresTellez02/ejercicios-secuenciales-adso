@@ -1,0 +1,16 @@
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\bin\Debug\net10.0\Eje05_AreaYPerimetroCirculo.exe
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\bin\Debug\net10.0\Eje05_AreaYPerimetroCirculo.deps.json
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\bin\Debug\net10.0\Eje05_AreaYPerimetroCirculo.runtimeconfig.json
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\bin\Debug\net10.0\Eje05_AreaYPerimetroCirculo.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\bin\Debug\net10.0\Eje05_AreaYPerimetroCirculo.pdb
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\obj\Debug\net10.0\Eje05_AreaYPerimetroCirculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\obj\Debug\net10.0\Eje05_AreaYPerimetroCirculo.AssemblyInfoInputs.cache
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\obj\Debug\net10.0\Eje05_AreaYPerimetroCirculo.AssemblyInfo.cs
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\obj\Debug\net10.0\Eje05_AreaYPerimetroCirculo.csproj.CoreCompileInputs.cache
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\obj\Debug\net10.0\Eje05_AreaYPerimetroCirculo.sourcelink.json
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\obj\Debug\net10.0\Eje05_AreaYPerimetroCirculo.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\obj\Debug\net10.0\refint\Eje05_AreaYPerimetroCirculo.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\obj\Debug\net10.0\Eje05_AreaYPerimetroCirculo.pdb
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\obj\Debug\net10.0\Eje05_AreaYPerimetroCirculo.genruntimeconfig.cache
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\obj\Debug\net10.0\ref\Eje05_AreaYPerimetroCirculo.dll
+D:\Competencias algoritmos\ejercicios-secuenciales\src\Eje05_AreaYPerimetroCirculo\obj\Debug\net10.0\Eje05_Ar.48F6B075.Up2Date
