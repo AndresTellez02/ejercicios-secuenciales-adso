@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Eje04_AreaRectanguloAumentoBaseYAltura/1.0.0": {
+        "runtime": {
+          "Eje04_AreaRectanguloAumentoBaseYAltura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eje04_AreaRectanguloAumentoBaseYAltura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
