@@ -20,8 +20,8 @@ en un compilador en línea o en Visual Studio.
 |02|Intercambio sin variable auxiliar|✅|
 |03|Promedio Poderado|✅|
 |04|El rectángulo que crece|✅|
-|05|Circulo: Área y perimetro|⏳|
-|06|Termometro triple: °C, °F y Kelvin|⏳|
+|05|Circulo: Área y perimetro|✅|
+|06|Termometro triple: °C, °F y Kelvin|✅|
 |07|El rectángulo que crece|⏳|
 
 
