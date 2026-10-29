@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Eje09_FacturaDescuentoyIVA/1.0.0": {
+        "runtime": {
+          "Eje09_FacturaDescuentoyIVA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eje09_FacturaDescuentoyIVA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
