@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Documents\\ejercicios-secuenciales-adso\\src\\Eje12_VoltearNumero2Cifras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFE98A1-CFC7-44A4-99B4-B43F55EBA852}|Eje12_VoltearNumero2Cifras.csproj|c:\\users\\usuario\\documents\\ejercicios-secuenciales-adso\\src\\eje12_voltearnumero2cifras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFE98A1-CFC7-44A4-99B4-B43F55EBA852}|Eje12_VoltearNumero2Cifras.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\ejercicios-secuenciales-adso\\src\\Eje12_VoltearNumero2Cifras\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\ejercicios-secuenciales-adso\\src\\Eje12_VoltearNumero2Cifras\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T03:12:30.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

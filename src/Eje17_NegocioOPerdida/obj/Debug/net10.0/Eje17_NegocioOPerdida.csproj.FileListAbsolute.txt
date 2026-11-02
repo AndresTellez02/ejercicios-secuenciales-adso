@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\bin\Debug\net10.0\Eje17_NegocioOPerdida.exe
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\bin\Debug\net10.0\Eje17_NegocioOPerdida.deps.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\bin\Debug\net10.0\Eje17_NegocioOPerdida.runtimeconfig.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\bin\Debug\net10.0\Eje17_NegocioOPerdida.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\bin\Debug\net10.0\Eje17_NegocioOPerdida.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\obj\Debug\net10.0\Eje17_NegocioOPerdida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\obj\Debug\net10.0\Eje17_NegocioOPerdida.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\obj\Debug\net10.0\Eje17_NegocioOPerdida.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\obj\Debug\net10.0\Eje17_NegocioOPerdida.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\obj\Debug\net10.0\Eje17_NegocioOPerdida.sourcelink.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\obj\Debug\net10.0\Eje17_NegocioOPerdida.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\obj\Debug\net10.0\refint\Eje17_NegocioOPerdida.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\obj\Debug\net10.0\Eje17_NegocioOPerdida.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\obj\Debug\net10.0\Eje17_NegocioOPerdida.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\obj\Debug\net10.0\ref\Eje17_NegocioOPerdida.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje17_NegocioOPerdida\obj\Debug\net10.0\Eje17_Ne.7C150643.Up2Date

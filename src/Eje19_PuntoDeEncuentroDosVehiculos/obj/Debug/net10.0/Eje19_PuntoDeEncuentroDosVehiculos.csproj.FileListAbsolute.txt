@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\bin\Debug\net10.0\Eje19_PuntoDeEncuentroDosVehiculos.exe
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\bin\Debug\net10.0\Eje19_PuntoDeEncuentroDosVehiculos.deps.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\bin\Debug\net10.0\Eje19_PuntoDeEncuentroDosVehiculos.runtimeconfig.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\bin\Debug\net10.0\Eje19_PuntoDeEncuentroDosVehiculos.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\bin\Debug\net10.0\Eje19_PuntoDeEncuentroDosVehiculos.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\obj\Debug\net10.0\Eje19_PuntoDeEncuentroDosVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\obj\Debug\net10.0\Eje19_PuntoDeEncuentroDosVehiculos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\obj\Debug\net10.0\Eje19_PuntoDeEncuentroDosVehiculos.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\obj\Debug\net10.0\Eje19_PuntoDeEncuentroDosVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\obj\Debug\net10.0\Eje19_PuntoDeEncuentroDosVehiculos.sourcelink.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\obj\Debug\net10.0\Eje19_PuntoDeEncuentroDosVehiculos.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\obj\Debug\net10.0\refint\Eje19_PuntoDeEncuentroDosVehiculos.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\obj\Debug\net10.0\Eje19_PuntoDeEncuentroDosVehiculos.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\obj\Debug\net10.0\Eje19_PuntoDeEncuentroDosVehiculos.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\obj\Debug\net10.0\ref\Eje19_PuntoDeEncuentroDosVehiculos.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje19_PuntoDeEncuentroDosVehiculos\obj\Debug\net10.0\Eje19_Pu.AA4E2C09.Up2Date

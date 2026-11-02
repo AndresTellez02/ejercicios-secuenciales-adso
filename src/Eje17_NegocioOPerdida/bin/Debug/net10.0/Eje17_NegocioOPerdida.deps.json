@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Eje17_NegocioOPerdida/1.0.0": {
+        "runtime": {
+          "Eje17_NegocioOPerdida.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eje17_NegocioOPerdida/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

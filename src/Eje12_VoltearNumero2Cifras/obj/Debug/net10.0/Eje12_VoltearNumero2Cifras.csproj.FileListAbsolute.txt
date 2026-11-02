@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\bin\Debug\net10.0\Eje12_VoltearNumero2Cifras.exe
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\bin\Debug\net10.0\Eje12_VoltearNumero2Cifras.deps.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\bin\Debug\net10.0\Eje12_VoltearNumero2Cifras.runtimeconfig.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\bin\Debug\net10.0\Eje12_VoltearNumero2Cifras.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\bin\Debug\net10.0\Eje12_VoltearNumero2Cifras.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\obj\Debug\net10.0\Eje12_VoltearNumero2Cifras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\obj\Debug\net10.0\Eje12_VoltearNumero2Cifras.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\obj\Debug\net10.0\Eje12_VoltearNumero2Cifras.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\obj\Debug\net10.0\Eje12_VoltearNumero2Cifras.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\obj\Debug\net10.0\Eje12_VoltearNumero2Cifras.sourcelink.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\obj\Debug\net10.0\Eje12_VoltearNumero2Cifras.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\obj\Debug\net10.0\refint\Eje12_VoltearNumero2Cifras.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\obj\Debug\net10.0\Eje12_VoltearNumero2Cifras.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\obj\Debug\net10.0\Eje12_VoltearNumero2Cifras.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\obj\Debug\net10.0\ref\Eje12_VoltearNumero2Cifras.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje12_VoltearNumero2Cifras\obj\Debug\net10.0\Eje12_Vo.49A47871.Up2Date

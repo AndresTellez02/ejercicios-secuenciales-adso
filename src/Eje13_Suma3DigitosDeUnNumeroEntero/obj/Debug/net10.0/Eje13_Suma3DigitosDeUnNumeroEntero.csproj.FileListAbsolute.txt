@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\bin\Debug\net10.0\Eje13_Suma3DigitosDeUnNumeroEntero.exe
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\bin\Debug\net10.0\Eje13_Suma3DigitosDeUnNumeroEntero.deps.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\bin\Debug\net10.0\Eje13_Suma3DigitosDeUnNumeroEntero.runtimeconfig.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\bin\Debug\net10.0\Eje13_Suma3DigitosDeUnNumeroEntero.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\bin\Debug\net10.0\Eje13_Suma3DigitosDeUnNumeroEntero.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\obj\Debug\net10.0\Eje13_Suma3DigitosDeUnNumeroEntero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\obj\Debug\net10.0\Eje13_Suma3DigitosDeUnNumeroEntero.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\obj\Debug\net10.0\Eje13_Suma3DigitosDeUnNumeroEntero.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\obj\Debug\net10.0\Eje13_Suma3DigitosDeUnNumeroEntero.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\obj\Debug\net10.0\Eje13_Suma3DigitosDeUnNumeroEntero.sourcelink.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\obj\Debug\net10.0\Eje13_Suma3DigitosDeUnNumeroEntero.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\obj\Debug\net10.0\refint\Eje13_Suma3DigitosDeUnNumeroEntero.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\obj\Debug\net10.0\Eje13_Suma3DigitosDeUnNumeroEntero.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\obj\Debug\net10.0\Eje13_Suma3DigitosDeUnNumeroEntero.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\obj\Debug\net10.0\ref\Eje13_Suma3DigitosDeUnNumeroEntero.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje13_Suma3DigitosDeUnNumeroEntero\obj\Debug\net10.0\Eje13_Su.62064B8B.Up2Date

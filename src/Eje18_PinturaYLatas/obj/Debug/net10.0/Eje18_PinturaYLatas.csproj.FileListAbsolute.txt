@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\bin\Debug\net10.0\Eje18_PinturaYLatas.exe
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\bin\Debug\net10.0\Eje18_PinturaYLatas.deps.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\bin\Debug\net10.0\Eje18_PinturaYLatas.runtimeconfig.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\bin\Debug\net10.0\Eje18_PinturaYLatas.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\bin\Debug\net10.0\Eje18_PinturaYLatas.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\obj\Debug\net10.0\Eje18_PinturaYLatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\obj\Debug\net10.0\Eje18_PinturaYLatas.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\obj\Debug\net10.0\Eje18_PinturaYLatas.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\obj\Debug\net10.0\Eje18_PinturaYLatas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\obj\Debug\net10.0\Eje18_PinturaYLatas.sourcelink.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\obj\Debug\net10.0\Eje18_PinturaYLatas.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\obj\Debug\net10.0\refint\Eje18_PinturaYLatas.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\obj\Debug\net10.0\Eje18_PinturaYLatas.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\obj\Debug\net10.0\Eje18_PinturaYLatas.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\obj\Debug\net10.0\ref\Eje18_PinturaYLatas.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje18_PinturaYLatas\obj\Debug\net10.0\Eje18_Pi.20D029C7.Up2Date

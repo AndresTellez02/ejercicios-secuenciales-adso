@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\bin\Debug\net10.0\Eje15_Radriografia4Digitos.exe
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\bin\Debug\net10.0\Eje15_Radriografia4Digitos.deps.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\bin\Debug\net10.0\Eje15_Radriografia4Digitos.runtimeconfig.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\bin\Debug\net10.0\Eje15_Radriografia4Digitos.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\bin\Debug\net10.0\Eje15_Radriografia4Digitos.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\obj\Debug\net10.0\Eje15_Radriografia4Digitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\obj\Debug\net10.0\Eje15_Radriografia4Digitos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\obj\Debug\net10.0\Eje15_Radriografia4Digitos.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\obj\Debug\net10.0\Eje15_Radriografia4Digitos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\obj\Debug\net10.0\Eje15_Radriografia4Digitos.sourcelink.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\obj\Debug\net10.0\Eje15_Radriografia4Digitos.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\obj\Debug\net10.0\refint\Eje15_Radriografia4Digitos.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\obj\Debug\net10.0\Eje15_Radriografia4Digitos.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\obj\Debug\net10.0\Eje15_Radriografia4Digitos.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\obj\Debug\net10.0\ref\Eje15_Radriografia4Digitos.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje15_Radriografia4Digitos\obj\Debug\net10.0\Eje15_Ra.5AF66F5E.Up2Date

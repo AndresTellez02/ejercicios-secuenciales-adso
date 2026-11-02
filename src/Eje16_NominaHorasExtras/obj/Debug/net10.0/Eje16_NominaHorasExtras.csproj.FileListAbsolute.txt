@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\bin\Debug\net10.0\Eje16_NominaHorasExtras.exe
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\bin\Debug\net10.0\Eje16_NominaHorasExtras.deps.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\bin\Debug\net10.0\Eje16_NominaHorasExtras.runtimeconfig.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\bin\Debug\net10.0\Eje16_NominaHorasExtras.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\bin\Debug\net10.0\Eje16_NominaHorasExtras.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\obj\Debug\net10.0\Eje16_NominaHorasExtras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\obj\Debug\net10.0\Eje16_NominaHorasExtras.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\obj\Debug\net10.0\Eje16_NominaHorasExtras.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\obj\Debug\net10.0\Eje16_NominaHorasExtras.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\obj\Debug\net10.0\Eje16_NominaHorasExtras.sourcelink.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\obj\Debug\net10.0\Eje16_NominaHorasExtras.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\obj\Debug\net10.0\refint\Eje16_NominaHorasExtras.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\obj\Debug\net10.0\Eje16_NominaHorasExtras.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\obj\Debug\net10.0\Eje16_NominaHorasExtras.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\obj\Debug\net10.0\ref\Eje16_NominaHorasExtras.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje16_NominaHorasExtras\obj\Debug\net10.0\Eje16_No.32F1CE08.Up2Date

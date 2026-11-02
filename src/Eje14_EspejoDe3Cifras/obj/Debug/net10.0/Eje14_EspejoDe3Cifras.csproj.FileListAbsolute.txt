@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\bin\Debug\net10.0\Eje14_EspejoDe3Cifras.exe
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\bin\Debug\net10.0\Eje14_EspejoDe3Cifras.deps.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\bin\Debug\net10.0\Eje14_EspejoDe3Cifras.runtimeconfig.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\bin\Debug\net10.0\Eje14_EspejoDe3Cifras.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\bin\Debug\net10.0\Eje14_EspejoDe3Cifras.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\obj\Debug\net10.0\Eje14_EspejoDe3Cifras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\obj\Debug\net10.0\Eje14_EspejoDe3Cifras.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\obj\Debug\net10.0\Eje14_EspejoDe3Cifras.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\obj\Debug\net10.0\Eje14_EspejoDe3Cifras.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\obj\Debug\net10.0\Eje14_EspejoDe3Cifras.sourcelink.json
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\obj\Debug\net10.0\Eje14_EspejoDe3Cifras.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\obj\Debug\net10.0\refint\Eje14_EspejoDe3Cifras.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\obj\Debug\net10.0\Eje14_EspejoDe3Cifras.pdb
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\obj\Debug\net10.0\Eje14_EspejoDe3Cifras.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\obj\Debug\net10.0\ref\Eje14_EspejoDe3Cifras.dll
+C:\Users\USUARIO\Documents\ejercicios-secuenciales-adso\src\Eje14_EspejoDe3Cifras\obj\Debug\net10.0\Eje14_Es.3DDF9179.Up2Date
